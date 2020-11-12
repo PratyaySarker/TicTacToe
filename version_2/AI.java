@@ -3,7 +3,7 @@
  *
  * STUDENTS: Nothing to change here.
  *
- * @author INSERT YOUR NAME(S) HERE
+ * @author PratyaySarker
  */
 
 public interface AI {
